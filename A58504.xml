@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon an advertisement, of a meeting at Turners-Hall</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58504</idno>
+            <idno type="STC">Wing R942</idno>
+            <idno type="STC">ESTC R222086</idno>
+            <idno type="EEBO-CITATION">99833316</idno>
+            <idno type="PROQUEST">99833316</idno>
+            <idno type="VID">37792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon an advertisement, of a meeting at Turners-Hall</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In answer to Keith, George.  An advertisement of an intended meeting.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716. --  Advertisement of an intended meeting --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37792:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <head>REMARKS UPON AN Advertiſement, OF A MEETING At Turners-Hall.</head>
+            <epigraph>
+               <q>
+                  <p>He that is firſt in his own Cauſe, ſeemeth Juſt; but his Neighbour cometh and ſearcheth him,</p>
+                  <bibl>
+                     <hi>Prov. 18.17.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <p>The fooliſhneſs of Man perverteth his Way; and his Heart fretteth againſt the LORD,</p>
+                  <bibl>
+                     <hi>Prov. 19.3.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>HAving ſeen an Advertiſement, ſubſcribed <hi>G. K.</hi> Relating to a Meeting to be held by <hi>George Keith</hi> and his Friends in <hi>Turners-Hall, London,</hi> the 11th of <hi>June,</hi> 1696. My Curioſity led me to Read it, having heard he was a Man of Learning and Diſtinction. And therein I obſerve theſe things:</p>
+            <p n="1">
+               <hi>Firſt,</hi> That it Principally related to ſome things already Expreſſed in Publick Print.</p>
+            <p n="2">
+               <hi>Secondly,</hi> To four Men expreſſed by Name, viz. <hi>William Penn, George Whitehead, Thomas Ellwood, John Pennington.</hi>
+            </p>
+            <pb n="2" facs="tcp:37792:2"/>
+            <!-- PDF PAGE 61 -->
+            <p n="3">
+               <hi>Thirdly,</hi> To a Meeting called the Second Days Morning-Meeting, for Li<g ref="char:EOLhyphen"/>mitations he preicribes,
+Countenancing, <hi>ſome Books,</hi> Particularly one from <hi>Penſilvania;</hi> called, <hi>A Modeſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Account of the Principal Differences in Point. of Do<g ref="char:EOLhyphen"/>ctrine,</hi> &amp;c. which is chiefly, as I perceive by view thereof, a Col<g ref="char:EOLhyphen"/>lection out of former Books of <hi>G. K</hi>'s. &amp;c.</p>
+            <p>And the other part of this Advertiſement is, to give Account of the Cauſe to Intimate ſuch a Meeting.</p>
+            <p>And one Cauſe aſſigned is, That he hath neither Time nor Abillity to Print Anſwers.</p>
+            <p>And another, That a Meeting of People have owned him in their Printed Teſtimony, called, <hi>A Seaſonable Teſtimony;</hi> which therefore he accounts is Parallell'd with what the <hi>Quakers</hi> did ſome Years ago againſt <hi>Tho. Hicks.</hi>
+            </p>
+            <p>And much of the other part being Invectives, and black Epithites, he brings forth and caſts upon the ſaid Perſons.</p>
+            <p>All which I muſt need ſay falls greatly ſhort, in my Opinion, of rendering the ſaid <hi>G. K.</hi> a Perſon juſtly Meriting the Character of a Man of Learning and Diſtinction, or Wiſdom, or Juſtice.</p>
+            <p>For had he been ſuch an one, ſo much Folly, Pride and Con<g ref="char:EOLhyphen"/>ceitedneſs would never have dropt from his Pen.</p>
+            <p>His, Folly <hi>1ſt,</hi> In propoſing a Meeting under the Reſtrictions and Li<g ref="char:EOLhyphen"/>mitations he preſcribes, <hi>without Throng or Croud,</hi> when he gives a Months publick notice in <hi>Print,</hi> of Time and Place, in this Populous City.</p>
+            <p n="2">
+               <hi>2dly,</hi> In deſiring them to be there to hear themſelves Charged, and Proved Guilty, of the following Things; when he hath al<g ref="char:EOLhyphen"/>ready Charged them to be Guilty, and that in Publick Print, of Defamations, <hi>&amp;c.</hi> and moſt Erronious and Hurtful Principles, to the great Shame and Scandal of the <hi>Chriſtian Religion:</hi> But he pre<g ref="char:EOLhyphen"/>tends a Juſtneſs, in deſiring them to be there, to hear themſelves proved Guilty; by which he ſhews he hath not yet been ſo Juſt, as now he would ſeem to be; but ſo far as his Charge will go to<g ref="char:EOLhyphen"/>wards Proof, he is not wanting to do it, and that in Print, before ſuch hearing</p>
+            <p>Would ever a Scholar, or Wiſe Man, manifeſt ſuch Folly, thus to expoſe the ſaid Perſons, without hearing, or being juſtly deſired to be preſent, to anſwer to their ſeveral Charges.</p>
+            <p>Is not this like <hi>Abbington Law,</hi> viz. Condemn firſt, and Try after; and contrary to the Wiſe Mans ſaying, viz. <hi>Blame not before thou haſt examined the Matter; firſt underſtand, and then Rebuke;</hi> And below <hi>Felix</hi> his ſaying of <hi>Paul, I'll hear thee and thy Accuſers when they come Face to Face?</hi>
+            </p>
+            <pb n="3" facs="tcp:37792:2"/>
+            <!-- PDF PAGE 61 -->
+            <p n="3">
+               <hi>3dly,</hi> The Pride and Conceitedneſs of this Man to me greatly appears, in his taking upon him ſo Peremptorily, in Publick Print, to ſummons ſo many Perſons to attend him at Time and Place he ſets and Appoints; ought not they to be conſulted with, about ſuch a Meeting, and Inquired of, whether they would Conſent thereto, and agree to Time and Place? Was it not ſo with the <hi>Baptiſts</hi> and the <hi>Quakers</hi> formerly? If not, I think it ought to have been ſo; but for this Man, that without ſo doing, appoints Time and Place, and Summons; and moreover ſuggeſts, that if few or none of them be preſent, that it is from a being conſcious to themſelves of the badneſs of the Cauſe: This makes me think of the <hi>Proverb, Haſty Folks never wants Wo.</hi> Why ſo haſty to conclude they are Conſcious of the badneſs of their Cauſe, before they are heard? Beſides, are there not many juſtifiable or allowable Reaſons, to Enduce them to the contrary, or occaſions to Excuſe them? Therefore why ſhould this Man of all others, be ſo haſty to Condemn them <hi>ALTOGE<g ref="char:EOLhyphen"/>THER <g ref="char:V">Ʋ</g>NHEARD?</hi>
+            </p>
+            <p>For inſtance, If theſe Men, with regard to the preſervation of Peace, and preventing ſuch Diſorders and Riotous Actions, that may be committed at ſuch Aſſemblies, ſhall rather chooſe to content them<g ref="char:EOLhyphen"/>ſelves with ſuch a Vindication, that may be more Peaceably, and Inoffenſively managed, muſt there be no leſs then a Conſciouſneſs of Guilt to be preſently concluded on their ſide, without hearing and peruſing their Anſwer already in print? For will not ſuch that impartially examine what both writes, be a fitter Judge then this Man in his own Caſe, who Accuſes, Summons, and paſſes Sentence, upon his own Authority, and without hearing? For the time he hath appointed for that, is not yet come: But the Proverb is, <hi>Curſt Cows have ſhort Horns.</hi>
+            </p>
+            <p>But truely after all, it's my Advice both to this Man and the <hi>Quakers,</hi> to make better uſe of the preſent Priviledges and Liberty they enjoy from the Government, than to incur their Diſpleaſure, and expoſe themſelves to the rage and fury of a mixed Multitude, to the Endan<g ref="char:EOLhyphen"/>gering the Breach of the publick Peace, and thereby give a juſt occaſion of Offence to the Magiſtrates, which tho' it may not be by them im<g ref="char:EOLhyphen"/>mediately, yet may occaſionally, and may tend to the great ſhame of their Profeſſion, and Scandal of the Chriſtian Religion.</p>
+            <p>And if the People <hi>G. K.</hi> is joyned with, are ſo few, ſo poor, or ſo Niggardly, as they will not be at a little Charge in Printing Books, relating to their Religious Controverſies, in matters of Faith, they'll ſhew leſs Zeal to the Cauſe, than thoſe <hi>G. K.</hi> writes againſt, and ac<g ref="char:EOLhyphen"/>counts in Error: And his Friends thereby give but lit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le Demon<g ref="char:EOLhyphen"/>ſtration
+<pb n="4" facs="tcp:37792:3"/>
+               <!-- PDF PAGE 62 -->of their love to him, or of their owning him, except in Words</p>
+            <p>And altho' I have made ſome Remarks on the Method propoſed by <hi>G. K.</hi> to ſhew his Folly therein, and alſo his preſumption, as it ap<g ref="char:EOLhyphen"/>pears to me in his Concluding others to be, what he thinks and ſays they are, without or before hearing (for that time is not yet come) as if he, tho' in his own defence, was the great Judge of Matters of Fact, and prime Director of Method and Manner to proceed, Sum<g ref="char:EOLhyphen"/>mons, Hear, Try, Judge, Condemn, Acquit, Excuſe or Diſcharge, Alter and Change, Way, Method, and Place, as well as preſcribe, if he ſees meet. Oh what a great HE this Man conceits himſelf! And what a power he. aſſumes! It be ſpeaks his Pride, and he to be ſuch an one as ſeeks Preheminence. For what Juſt or Legal Power or Au<g ref="char:EOLhyphen"/>thority hath he to do this? Sure he doth not well underſtand our <hi>Engliſh</hi> Laws, which have made better Proviſion, than to admit or allow any to Exerciſe an Arbitrary Power over her free-born <hi>Engliſh;</hi> to Summons, Hear, Judge, at will and pleaſure, and in their own Caſe.</p>
+            <p>This, as an <hi>Engliſh</hi> Man, I ſo Illy reſented, that I have Adventured thus to ſhow my Opinion, and give my Advice, not deſigning to Inter<g ref="char:EOLhyphen"/>poſe in the Management of the Controverſie: But rather deſire the Provoker, and the Provoked, may diſpoſe themſelves to the ſtudy of Quietneſs, and in a proper way to be Inſtrumental to put an End to their Controverſies, and get a winding Sheet for it, that it may be Bu<g ref="char:EOLhyphen"/>ried, and never have a joyful Reſurrection, what ever they may, that are concerned therein.</p>
+            <closer>
+               <salute>VALE.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
